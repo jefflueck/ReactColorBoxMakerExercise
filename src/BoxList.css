@@ -1,0 +1,17 @@
+.BoxList {
+  margin: 0;
+  padding: 0;
+}
+
+.NewBoxForm {
+  text-align: center;
+  display: block;
+}
+
+.Boxes {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

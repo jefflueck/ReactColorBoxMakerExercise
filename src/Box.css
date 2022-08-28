@@ -1,0 +1,10 @@
+.Box {
+  outline: 3px solid black;
+}
+
+.Box-Button {
+  text-align: center;
+  width: 40px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}

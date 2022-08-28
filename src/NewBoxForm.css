@@ -1,0 +1,11 @@
+label {
+  text-align: center;
+  display: block;
+  margin: 10px 0px;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+}
